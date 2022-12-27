@@ -1,0 +1,278 @@
+@import 'normalize.css';
+@import 'skeleton.css';
+
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: auto;
+  src: local('Barlow Condensed Regular'), local('BarlowCondensed-Regular'), url('./BarlowCondensed-Regular.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 400;
+  font-display: auto;
+  src: local('Barlow Condensed Italic'), local('BarlowCondensed-Italic'), url('./BarlowCondensed-Italic.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: auto;
+  src: local('Barlow Condensed Bold'), local('BarlowCondensed-Bold'), url('./BarlowCondensed-Bold.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: italic;
+  font-weight: 700;
+  font-display: auto;
+  src: local('Barlow Condensed Bold Italic'), local('BarlowCondensed-BoldItalic'), url('./BarlowCondensed-BoldItalic.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+section::after,
+nav::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+body {
+  font-family: 'Barlow Condensed', sans-serif;
+  background-color: #1A1E26;
+  color: #fff;
+}
+
+h1 {
+  font-size: max(5vh, 5vw);
+  font-style: italic;
+  font-weight: 700;
+  line-height: 1;
+  margin-top: 0;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: max(3.5vh, 3.5vw);
+  line-height: 1;
+  text-shadow: min(-.3vh, -.3vw) max(.3vh, .3vw) 0 #000;
+}
+
+h3 {
+  font-weight: 700;
+  font-style: italic;
+  font-size: 4rem;
+  line-height: 1;
+  text-shadow: min(-.1vh, -.1vw) max(.1vh, .1vw) 0 #000;
+}
+
+a:hover { text-decoration: underline; }
+
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.hidden { display: none; }
+
+.list-inline { padding: 0; }
+.list-inline li { display: inline; }
+.list-inline li:not(:first-child) { margin-left: 1vw; }
+
+.embed-responsive {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-responsive iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero {
+  text-align: center;
+  font-size: max(5vh, 5vw);
+  text-shadow: min(-.15vh, -.15vw) max(.15vh, .15vw) 0 #000;
+  background-image: url("../img/thomas-de-villardi-1200.jpg");
+  background-size: cover;
+  background-position: top center;
+  overflow: hidden;
+  margin: 0;
+  padding: 20vh 5vw 10vh;
+}
+
+.svg-logo {
+  width: 150px;
+}
+
+.break {
+  display: block;
+}
+
+.fat-title {
+  font-weight: 700;
+  line-height: .9;
+  font-style: italic;
+  font-size: max(9vh,9vw);
+}
+
+.special {
+  line-height: 1;
+  font-style: italic;
+}
+
+.list-blank {
+  margin: 0 0 2vh 0;
+  padding: 0;
+}
+
+.list-blank li {
+  list-style: none;
+  margin-left: 0;
+}
+
+/* Animations */
+@keyframes logonanim {
+  0%  { transform: translate3d(0, -2rem, 0); opacity: 0; }
+  25%  { transform: translate3d(0, -2rem, 0); opacity: 0; }
+  100%  { transform: translate3d(0, 0, 0); opacity: 1; }
+}
+
+.svg-logo { animation: logonanim 1s ease; }
+
+@keyframes leftnanim {
+  0%  { transform: translate3d(-2rem, 0, 0); opacity: 0; }
+  50%  { transform: translate3d(-2rem, 0, 0); opacity: 0; }
+  100%  { transform: translate3d(0, 0, 0); opacity: 1; }
+}
+
+.special { animation: leftnanim 2s ease }
+
+nav {
+  box-sizing: border-box;
+  position: sticky;
+  top: 0;
+  background-color: #000000dd;
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  z-index: 100;
+  padding: 1vh 0;
+}
+
+nav ul {
+  display: inline-block;
+  margin: 1rem 0;
+}
+
+nav svg {
+  vertical-align: -.4em;
+}
+
+nav a,
+nav a:hover {
+  color: #fff; }
+
+nav a {
+  text-decoration: none;
+  padding: 1rem 1rem 1.2rem;
+  border-radius: 4px;
+}
+nav a:hover {
+  background-color: #1A1E26;
+  border: none;
+  text-decoration: none;
+}
+
+.social a {
+  margin: 0 2rem 0 0;
+}
+
+.social a:hover {
+  border: none;
+  color: #fff;
+}
+
+section {
+  padding: 7rem 5vw 5vh;
+}
+
+section h2 {
+  margin-top: 0;
+  margin-bottom: max(3vh, 3vw);
+}
+
+.card {
+  box-shadow: 0 .3rem .5rem #1B52BF;
+  padding: 5vh 2rem;
+  margin-bottom: 3vh;
+}
+
+.card h3 {
+  line-height: 1;
+}
+
+.card.active {
+  outline: 2px solid #1B52BF;
+}
+
+.price {
+  font-size: max(10vh, 5vw);
+  font-weight: 700;
+  line-height: 1;
+}
+
+.tile {
+  margin: 1.5vw 0;
+  box-sizing: border-box;
+}
+
+.tile:last-child {
+  border-bottom-width: 0;
+}
+
+.responsive-table {
+	position: relative;
+	overflow-x: auto;
+	display: flex;
+	align-items: center;
+}
+
+#contact-confirm {
+  display: none;
+  background-color: lightgreen;
+  padding: 1.5vh 1vw 2vh;
+  text-align: center;
+}
+
+#contact-confirm:target {
+  display: block;
+}
+
+table {
+	margin: 0 auto;
+  border-spacing: 0;
+  display: block;
+  overflow-x: auto;
+}
+
+td,
+th {
+  border-bottom: .1rem solid #ccc;
+  padding: 1.2rem 1.5rem;
+}
+
+footer {
+  clear: both;
+  padding: 4vh 0;
+}
