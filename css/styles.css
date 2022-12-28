@@ -51,17 +51,18 @@ body {
 }
 
 h1 {
-  font-size: max(5vh, 5vw);
+  font-size: max(15vh, 15vw);
   font-style: italic;
   font-weight: 700;
-  line-height: 1;
-  margin-top: 0;
+  line-height: .8;
+  margin: 0 0 5vh;
 }
 
 h2 {
-  font-weight: 400;
-  font-size: max(3.5vh, 3.5vw);
-  line-height: 1;
+  font-weight: 700;
+  line-height: .9;
+  font-style: italic;
+  font-size: max(9vh,9vw);
   text-shadow: min(-.3vh, -.3vw) max(.3vh, .3vw) 0 #000;
 }
 
@@ -149,7 +150,7 @@ a:hover { text-decoration: underline; }
   100%  { transform: translate3d(0, 0, 0); opacity: 1; }
 }
 
-.svg-logo { animation: logonanim 1s ease; }
+.svg-logo { animation: logonanim .5s ease; }
 
 @keyframes leftnanim {
   0%  { transform: translate3d(-2rem, 0, 0); opacity: 0; }
@@ -157,7 +158,9 @@ a:hover { text-decoration: underline; }
   100%  { transform: translate3d(0, 0, 0); opacity: 1; }
 }
 
-.special { animation: leftnanim 2s ease }
+.special1 { animation: leftnanim 1s ease }
+.special2 { animation: leftnanim 1.5s ease }
+.special3 { animation: leftnanim 2s ease }
 
 nav {
   box-sizing: border-box;
@@ -204,7 +207,7 @@ nav a:hover {
 }
 
 section {
-  padding: 7rem 5vw 5vh;
+  padding: 5vh 5vw;
 }
 
 section h2 {
@@ -248,6 +251,10 @@ section h2 {
 	align-items: center;
 }
 
+.post-title {
+  margin-bottom: max(5vh, 5vw);
+}
+
 #contact-confirm {
   display: none;
   background-color: lightgreen;
@@ -274,5 +281,6 @@ th {
 
 footer {
   clear: both;
-  padding: 4vh 0;
+  padding: 4vh 0 2vh;
+  background-color: #000;
 }
