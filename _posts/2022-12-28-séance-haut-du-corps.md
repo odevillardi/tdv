@@ -1,0 +1,14 @@
+---
+layout: post
+picture: /img/pics/dsc8072.jpg
+date: 2022-12-28T11:16:37.479Z
+title: Séance haut du corps
+auteur: ol
+---
+## Échauffement
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam viverra nisl quis nisl varius, sed dignissim ante imperdiet. Nulla eget pharetra ipsum. Nunc quis felis bibendum, condimentum leo at, euismod felis. Vivamus euismod eget velit at volutpat. Ut eget faucibus est. Ut feugiat est eget neque elementum, eget ultrices enim lacinia.
+
+## Séries
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Curabitur in velit odio. Nulla nec posuere velit. Aliquam dui enim, blandit non commodo sed, dictum at est. Sed tristique aliquam enim in dictum. Praesent mollis blandit dui, ac congue quam volutpat a. Ut eu eleifend quam. Pellentesque quam velit, vehicula id velit sed, varius tempus mi. Sed fringilla egestas velit, ut vehicula metus pellentesque a.
