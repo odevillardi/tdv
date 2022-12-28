@@ -2,6 +2,7 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'img/pics/'
+logo_url: https://thomas-de-villardi.com/img/tdv-logo.svg
 show_preview_links: false
 collections:
   - name: 'posts'
