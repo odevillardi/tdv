@@ -6,7 +6,7 @@ publish_mode: editorial_workflow
 show_preview_links: false
 collections:
   - name: 'posts'
-    label: 'Blog'
+    label: 'Séances'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
