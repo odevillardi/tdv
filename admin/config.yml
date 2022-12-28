@@ -17,5 +17,4 @@ collections:
       - { label: 'Photo d’en-tête', name: 'picture', widget: 'image' }
       - { label: 'Date de publication', name: 'date', widget: 'datetime' }
       - { label: 'Titre', name: 'title', widget: 'string' }
-      - { label: 'Auteur', name: 'auteur', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
