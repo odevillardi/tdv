@@ -2,11 +2,10 @@ backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'img/pics/'
-publish_mode: editorial_workflow
 show_preview_links: false
 collections:
   - name: 'posts'
-    label: 'Séances'
+    label: 'Journal'
     folder: '_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -17,4 +16,5 @@ collections:
       - { label: 'Photo d’en-tête', name: 'picture', widget: 'image' }
       - { label: 'Date de publication', name: 'date', widget: 'datetime' }
       - { label: 'Titre', name: 'title', widget: 'string' }
+      - { label: 'Durée', name: 'duration', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
