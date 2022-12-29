@@ -29,4 +29,4 @@ DB complex (15kg / 7kg)
 6 [Devil presses](https://www.youtube.com/watch?v=hc6dfJHRcD0)
 10 cal Rower 
 
-Penser à garder une allure constante pendant tout l’AMRAP, on ne court pas un 5K en sprintant le premier kilomètre et en marchant les 4 derniers. Ne prenez pas un rythme trop soutenu au début au risque de ralentir drastiquement au fur et à mesure de l’AMRAP.
+**Penser à garder une allure constante pendant tout l’AMRAP, on ne court pas un 5K en sprintant le premier kilomètre et en marchant les 4 derniers. Ne prenez pas un rythme trop soutenu au début au risque de ralentir drastiquement au fur et à mesure de l’AMRAP.**
