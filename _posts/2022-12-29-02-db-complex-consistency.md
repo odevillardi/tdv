@@ -18,7 +18,8 @@ duration: 30 min
 
 #### **AMRAP 16 min**
 
-* DB complex (15kg / 7kg)
+DB complex (15kg / 7kg)
+
 * 12 [DB RDL ](https://www.youtube.com/watch?v=WIcpu2UkJoY)
 * 9 [DB Front squats](https://www.youtube.com/watch?v=B86Zj72LwzA)
 * 6 [Devil presses](https://www.youtube.com/watch?v=hc6dfJHRcD0)
