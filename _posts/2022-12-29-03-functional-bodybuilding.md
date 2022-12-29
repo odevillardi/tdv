@@ -1,6 +1,6 @@
 ---
 layout: post
-picture: /img/pics/tu5a5205.jpg
+picture: /img/pics/_dsc7371.jpeg
 date: 2022-12-29T10:32:30.019Z
 title: "03 : Functional Bodybuilding"
 duration: 30 min
