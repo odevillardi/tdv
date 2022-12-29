@@ -251,6 +251,28 @@ section h2 {
 	align-items: center;
 }
 
+a.post-item,
+a.post-item:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+img.post-item-img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  margin-bottom: 2rem;
+}
+
+.post-item:hover .post-item-img {
+  mix-blend-mode: normal;
+}
+
+.post-item:hover h3 {
+  text-decoration: underline;
+}
+
 .post-title {
   margin-bottom: max(5vh, 5vw);
 }

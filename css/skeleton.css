@@ -160,7 +160,7 @@ p {
 a {
   color: #A1A69C; }
 a:hover {
-  border-bottom: 1px solid;
+  text-decoration: underline;
 }
 
 
