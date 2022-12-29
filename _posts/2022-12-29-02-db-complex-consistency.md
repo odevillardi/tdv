@@ -5,7 +5,7 @@ date: 2022-12-29T09:30:48.839Z
 title: "02 : DB Complex : Consistency"
 duration: 30 min
 ---
-#### Warm up / Renfo
+#### **Warm up / Renfo**
 
 3 ROUNDS
 
@@ -16,7 +16,7 @@ duration: 30 min
 * 8 [Down ups ](https://www.youtube.com/watch?v=B3jLmb7dWLY)
 * 8 [Jump squat ](https://www.youtube.com/watch?v=flBodwEKe30)
 
-#### AMRAP 16 min
+#### **AMRAP 16 min**
 
 * DB complex (15kg / 7kg)
 * 12 [DB RDL ](https://www.youtube.com/watch?v=WIcpu2UkJoY)
