@@ -81,6 +81,12 @@ a:hover { text-decoration: underline; }
 .text-right { text-align: right; }
 .hidden { display: none; }
 
+.ratio-3-2 {
+  width: 100%;
+  object-fit: cover;
+  aspect-ratio: 3 / 2;
+}
+
 .list-inline { padding: 0; }
 .list-inline li { display: inline; }
 .list-inline li:not(:first-child) { margin-left: 1vw; }
@@ -258,10 +264,6 @@ a.post-item:hover {
 }
 
 img.post-item-img {
-  display: block;
-  width: 100%;
-  aspect-ratio: 3 / 2;
-  object-fit: cover;
   margin-bottom: 2rem;
 }
 

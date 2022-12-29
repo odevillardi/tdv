@@ -4,7 +4,7 @@
 		{% for post in paginator.posts limit:3 %}
 			<div class="four columns">
 				<a class="post-item" href="{{ post.url }}">
-					<img class="post-item-img" src="{{ post.picture }}" alt="{{ post.title }}">
+					<img class="post-item-img ratio-3-2" src="{{ post.picture }}" alt="{{ post.title }}">
 					<h3>{{ post.title }}</h3>
 				</a>
 			</div>
