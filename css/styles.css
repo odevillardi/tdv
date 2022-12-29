@@ -51,10 +51,10 @@ body {
 }
 
 h1 {
-  font-size: max(15vh, 15vw);
+  font-size: max(10vh, 10vw);
   font-style: italic;
   font-weight: 700;
-  line-height: .8;
+  line-height: .9;
   margin: 0 0 10vh;
 }
 
@@ -62,7 +62,7 @@ h2 {
   font-weight: 700;
   line-height: .9;
   font-style: italic;
-  font-size: max(9vh,9vw);
+  font-size: max(8vh,8vw);
   text-shadow: min(-.3vh, -.3vw) max(.3vh, .3vw) 0 #000;
 }
 
@@ -267,17 +267,13 @@ a.post-item:hover {
   color: #fff;
 }
 
-img.post-item-img {
-  margin-bottom: 2rem;
-}
+img.post-item-img { margin-bottom: 2rem; }
 
 .post-item:hover .post-item-img { mix-blend-mode: normal; }
 
 .post-item:hover h3 { text-decoration: underline; }
 
-.post-item-duration {
-  float: right;
-}
+.post-item-duration { float: right; }
 
 .post-item-duration::before { 
   vertical-align: baseline;

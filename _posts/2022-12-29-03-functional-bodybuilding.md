@@ -7,7 +7,7 @@ duration: 30 min
 ---
 ### Warm up 2 ROUNDS
 
-\- 8 [SL glute bridge](https://www.youtube.com/watch?v=tiZWu8faIkM)
+- 8 [SL glute bridge](https://www.youtube.com/watch?v=tiZWu8faIkM)
 - 8/8 [Lateral squat](https://www.youtube.com/watch?v=KVZUDdcyCa8) 
 - 8/8 [DB dead bug ](https://www.youtube.com/watch?v=Ros5jq3VgoY)
 - 20s/20s [1 arm plank](https://www.youtube.com/watch?v=X-gv0Ygb3yI)
@@ -16,13 +16,14 @@ duration: 30 min
 
 ### 4 ROUNDS
 
-8 [Goblet squat](https://www.youtube.com/watch?v=f-Vf2yRRqOg) (3’’ à la descente)
-8/8 [Dumbbell Suitcase RNT Split Squat](https://www.youtube.com/watch?v=XXY78-Qx5w0)\
-8/8 [Tirage bucheron ](https://www.youtube.com/watch?v=xl1YiqQY2vA)
+- 8 [Goblet squat](https://www.youtube.com/watch?v=f-Vf2yRRqOg) (3’’ à la descente)
+- 8/8 [Dumbbell Suitcase RNT Split Squat](https://www.youtube.com/watch?v=XXY78-Qx5w0)
+- 8/8 [Tirage bucheron ](https://www.youtube.com/watch?v=xl1YiqQY2vA)
 
-Toutes les 2 min x5 (enchainer les 2 exercices)\
-15s [Handstand hold against wall](https://www.youtube.com/watch?v=W3ESRgMORXw) ou 2 try to ascend 
-8/8 [DB Z press ](https://www.youtube.com/watch?v=k_kXBEjURUA)
+Toutes les 2 min x5 (enchainer les 2 exercices)
+
+- 15s [Handstand hold against wall](https://www.youtube.com/watch?v=W3ESRgMORXw) ou 2 try to ascend 
+- 8/8 [DB Z press ](https://www.youtube.com/watch?v=k_kXBEjURUA)
 
 
 Si vous ne pouvez pas garder la position en handstand, commencez par essayer de poser vos pieds délicatement sur le mur.
