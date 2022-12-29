@@ -1,5 +1,5 @@
 <section>
-	<h2 class="text-center">Journal</h2>
+	<h2 class="text-center">Séances</h2>
 	<div class="row">
 		{% for post in paginator.posts limit:3 %}
 			<div class="four columns post-item-container">
@@ -11,4 +11,7 @@
 			</div>
 		{% endfor %}
 	</div>
+	<p class="text-center">
+		<a class="button button-primary" href="/archives">Voir toutes les séances</a>
+	</p>
 </section>
