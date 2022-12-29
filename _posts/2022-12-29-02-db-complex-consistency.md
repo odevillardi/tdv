@@ -16,6 +16,8 @@ duration: 30 min
 * 8 [Down ups ](https://www.youtube.com/watch?v=B3jLmb7dWLY)
 * 8 [Jump squat ](https://www.youtube.com/watch?v=flBodwEKe30)
 
+Soyez consciencieux sur l'échauffement/renfo, 4 premiers exos lents et controlés. On veut de l'explosivité sur les 2 derniers. 
+
 #### **AMRAP 16 min**
 
 DB complex (15kg / 7kg)
@@ -25,4 +27,6 @@ DB complex (15kg / 7kg)
 * 6 [Devil presses](https://www.youtube.com/watch?v=hc6dfJHRcD0)
 * 10 cal Rower 
 
-**Penser à garder une allure constante pendant tout l’AMRAP, on ne court pas un 5K en sprintant le premier kilomètre et en marchant les 4 derniers. Ne prenez pas un rythme trop soutenu au début au risque de ralentir drastiquement au fur et à mesure de l’AMRAP.**
+
+
+Pensez à garder une allure constante pendant tout l’AMRAP, on ne court pas un 5K en sprintant le premier kilomètre et en marchant les 4 derniers. Ne prenez pas un rythme trop soutenu au début au risque de ralentir drastiquement au fur et à mesure de l’AMRAP.
