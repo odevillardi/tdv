@@ -55,7 +55,7 @@ h1 {
   font-style: italic;
   font-weight: 700;
   line-height: .8;
-  margin: 0 0 5vh;
+  margin: 0 0 10vh;
 }
 
 h2 {
@@ -281,6 +281,6 @@ th {
 
 footer {
   clear: both;
-  padding: 4vh 0 2vh;
+  padding: 4vh 0 1vh;
   background-color: #000;
 }

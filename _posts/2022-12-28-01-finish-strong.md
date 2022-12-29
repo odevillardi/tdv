@@ -3,18 +3,17 @@ layout: post
 picture: /img/pics/img_3340-2.jpg
 date: 2022-12-28T10:59:49.046Z
 title: "01 : Finish Strong"
-auteur: ol
 duration: 30 min
 ---
 ## Warm up/Renfo
 
 3 ROUNDS
 
-\- 8 [Push up to Pike](https://www.youtube.com/watch?v=gxf460U591I&t=29s) 
+- 8 [Push up to Pike](https://www.youtube.com/watch?v=gxf460U591I&t=29s)
 - 8 [High to low plank](https://www.youtube.com/watch?v=jdnPcOf4YOA)
 - 8 [Superman swimmer kicks](https://www.youtube.com/watch?v=giIrfytRWIQ)
 - 8 [Side plank rotation](https://www.youtube.com/watch?v=RXlHKL_NEN8)
-- 8 [SL Glute bridge](https://www.youtube.com/watch?v=AVAXhy6pl7o) 
+- 8 [SL Glute bridge](https://www.youtube.com/watch?v=AVAXhy6pl7o)
 - 5-5-5 Lunges (Forward/Side/Backward)
 
 
