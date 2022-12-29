@@ -27,4 +27,4 @@ Toutes les 2 min x5 (enchainer les 2 exercices)
 
 Si vous ne pouvez pas garder la position en handstand, commencez par essayer de poser vos pieds délicatement sur le mur.
 
-**Une bonne séance en hypertrophie, pensez à mettre du poids, vous devez viser l’échec à la fin de chaque série ou une rep de réserve max.**
+Une bonne séance en hypertrophie, pensez à mettre du poids, vous devez viser l’échec à la fin de chaque série ou une rep de réserve MAX. L'hypertrophie vous permettra d'augmenter votre force, votre volume musculaire et votre connection neuro-musculaire.
