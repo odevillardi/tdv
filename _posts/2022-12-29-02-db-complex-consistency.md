@@ -1,6 +1,6 @@
 ---
 layout: post
-picture: /img/pics/DSC7575.jpeg
+picture: /img/pics/_dsc7561.jpeg
 date: 2022-12-29T09:30:48.839Z
 title: "02 : DB Complex : Consistency"
 duration: 30 min
