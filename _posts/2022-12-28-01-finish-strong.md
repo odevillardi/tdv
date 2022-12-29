@@ -5,7 +5,7 @@ date: 2022-12-28T10:59:49.046Z
 title: "01 : Finish Strong"
 duration: 30 min
 ---
-#### Warm up/Renfo
+#### **Warm up/Renfo**
 
 3 ROUNDS
 
@@ -16,7 +16,7 @@ duration: 30 min
 * 8 [SL Glute bridge](https://www.youtube.com/watch?v=AVAXhy6pl7o)
 * 5-5-5 Lunges (Forward/Side/Backward)
 
-#### 5 ROUNDS 2'ON / 1'OFF
+#### **5 ROUNDS 2'ON / 1'OFF**
 
 Complex KB (16kg/12kg)
 
