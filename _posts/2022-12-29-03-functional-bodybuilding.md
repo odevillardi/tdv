@@ -1,6 +1,6 @@
 ---
 layout: post
-picture: /img/pics/tu5a5205.jpg
+picture: /img/pics/_dsc7371.jpeg
 date: 2022-12-29T10:32:30.019Z
 title: "03 : Functional Bodybuilding"
 duration: 30 min
@@ -27,4 +27,4 @@ Toutes les 2 min x5 (enchainer les 2 exercices)
 
 Si vous ne pouvez pas garder la position en handstand, commencez par essayer de poser vos pieds délicatement sur le mur.
 
-**Une bonne séance en hypertrophie, pensez à mettre du poids, vous devez viser l’échec à la fin de chaque série ou une rep de réserve max.**
+Une bonne séance en hypertrophie, pensez à mettre du poids, vous devez viser l’échec à la fin de chaque série ou une rep de réserve MAX. L'hypertrophie vous permettra d'augmenter votre force, votre volume musculaire et votre connection neuro-musculaire.
