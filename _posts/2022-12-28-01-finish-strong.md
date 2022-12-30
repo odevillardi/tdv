@@ -25,13 +25,11 @@ Complex KB (16kg/12kg)
 12 [KB swing](https://www.youtube.com/watch?v=KkYOW3jDhoM) \
 FINISH 2min with Max cal ERG (Air bike / Skiierg / Rower) 
 
+> L'idée derrière ce format est de gérer ses séries de 2min le plus intelligemment possible et de garder une haute intensité sur les 2 minutes. Trouver son rythme et ses limites sur le travail de résistance aux Kettlebells/burpees sera primordial afin de grapiller quelques calories sur l'ERG
+>
+> Un 6-9-12 trop rapide, risque de taxer beaucoup d'énergie et vous serez moins puissant et efficace sur l'ERG. Un 6-9-12 trop lent, vous fera perdre du temps sur le nombre de calories finales. Trouvez la bonne cadence et n'oubliez pas.. Finish Strong!!
 
-
-L'idée derrière ce format est de gérer ses séries de 2min le plus intelligemment possible et de garder une haute intensité sur les 2 minutes. Trouver son rythme et ses limites sur le travail de résistance aux Kettlebells/burpees sera primordial afin de grapiller quelques calories sur l'ERG
-
-Un 6-9-12 trop rapide, risque de taxer beaucoup d'énergie et vous serez moins puissant et efficace sur l'ERG. Un 6-9-12 trop lent, vous fera perdre du temps sur le nombre de calories finales. Trouvez la bonne cadence et n'oubliez pas.. Finish Strong!!
-
-Comptez vos calories sur les 5 tours, faites le total et comparez vous à mes athlètes !
+Comptez vos calories sur les 5 tours, faites le total et comparez-vous à mes athlètes !
 
 Scores: 
 
