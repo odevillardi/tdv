@@ -7,7 +7,7 @@
 			{{ page.content }}
 			{% if page.tip %}
 				<div class="post-tip">
-					{{ page.tip }}
+					{{ page.tip | markdownify}}
 				</div>
 			{% endif %}
 		</div>
