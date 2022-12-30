@@ -294,12 +294,12 @@ label > .label-body {
 /* Lists
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 ul {
-  list-style: "›  " outside;
+  list-style: "› " outside;
 }
 ol {
   list-style: decimal outside; }
 ol, ul {
-  padding-left: 1.5vw;
+  padding-left: max(2vh, 2vw);
   margin-top: 0; }
 ul ul,
 ul ol,
