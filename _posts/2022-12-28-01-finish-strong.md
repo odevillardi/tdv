@@ -37,7 +37,7 @@ Comptez vos calories sur les 5 tours, faites le total et comparez-vous à mes at
 Scores: 
 
 * **Adrien**: 63 cal total 16kg KB (Air Bike/Skiierg)
-* **Roméo**: 55 cal total 16kg KB(air bike/skiierg
-* **Emily**: 51 cal total 10/12kg KB (rower)
-* **Emmanuel**: 19 cal total 12kg KB (rower) 
-* **Bikat**: 46 cal total 12kg KB (air bike)
+* **Roméo**: 55 cal total 16kg KB (Air Bike/Skiierg)
+* **Emily**: 51 cal total 10/12kg KB (Rower)
+* **Emmanuel**: 19 cal total 12kg KB (Rower) 
+* **Bikat**: 46 cal total 12kg KB (Air Bike)
