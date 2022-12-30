@@ -19,3 +19,4 @@ collections:
       - { label: 'Titre', name: 'title', widget: 'string' }
       - { label: 'Durée', name: 'duration', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Tip', name: 'tip', widget: 'markdown' }
