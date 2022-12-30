@@ -76,6 +76,13 @@ h3 {
 
 a:hover { text-decoration: underline; }
 
+blockquote {
+  border-left: 4px solid #A1A69C;
+  border-radius: 4px;
+  padding: 0 2vw;
+  margin-left: 4vw;
+}
+
 .text-center { text-align: center; }
 .text-left { text-align: left; }
 .text-right { text-align: right; }
@@ -283,6 +290,13 @@ img.post-item-img { margin-bottom: 2rem; }
 
 .post-title {
   margin-bottom: max(5vh, 5vw);
+}
+
+.post-tip {
+  border: 1px solid #A1A69C;
+  border-radius: 4px;
+  padding: 2vh 2vw;
+  box-shadow: min(-.2vh, -.2vw) max(.2vh, .2vw) 0 #000;
 }
 
 #contact-confirm {
