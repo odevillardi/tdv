@@ -20,10 +20,10 @@ duration: 30 min
 
 Complex KB (16kg/12kg)
 
-6 burpees\
-9 [KB Thrusters](https://www.youtube.com/watch?v=ktDIi7qBHHM) \
-12 [KB swing](https://www.youtube.com/watch?v=KkYOW3jDhoM) \
-FINISH 2min with Max cal ERG (Air bike / Skiierg / Rower) 
+* 6 burpees
+* 9 [KB Thrusters](https://www.youtube.com/watch?v=ktDIi7qBHHM) 
+* 12 [KB swing](https://www.youtube.com/watch?v=KkYOW3jDhoM) 
+* FINISH 2min with Max cal ERG (Air bike / Skiierg / Rower) 
 
 > L'idée derrière ce format est de gérer ses séries de 2 min le plus intelligemment possible et de **garder une haute intensité sur les 2 min**. Trouver son rythme et ses limites sur le travail de résistance aux Kettlebells / burpees sera primordial afin de grapiller quelques calories sur l'ERG.
 >
