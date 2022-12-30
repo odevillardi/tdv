@@ -4,10 +4,12 @@ picture: /img/pics/dsc7371.jpeg
 date: 2022-12-29T10:32:30.019Z
 title: "03 : Functional Bodybuilding"
 duration: 30 min
-tip: Une bonne séance en hypertrophie, pensez à mettre du poids, vous devez
-  viser l’échec à la fin de chaque série ou une rep de réserve MAX.
-  L'hypertrophie vous permettra d'augmenter votre force, votre volume musculaire
-  et votre connection neuro-musculaire.
+tip: >-
+  Une bonne séance en hypertrophie, pensez à mettre du poids, **vous devez viser
+  l’échec à la fin de chaque série** ou une rep de réserve MAX.
+
+
+  L'hypertrophie vous permettra d'augmenter votre force, votre volume musculaire et votre connection neuro-musculaire.
 ---
 #### **Warm up 2 ROUNDS**
 
