@@ -2,7 +2,7 @@
 layout: post
 picture: /img/pics/p1020639.jpeg
 date: 2022-12-31T08:00:39.046Z
-title: "04 : DBall murder"
+title: "04 : DBall Murder"
 duration: 25 min
 ---
 #### Warm up
