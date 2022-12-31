@@ -87,6 +87,7 @@ blockquote {
 .text-left { text-align: left; }
 .text-right { text-align: right; }
 .hidden { display: none; }
+.lead { font-size: 1.5em; }
 
 .ratio-3-2 {
   width: 100%;
