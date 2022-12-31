@@ -2,10 +2,10 @@
 layout: post
 picture: /img/pics/p1020639.jpeg
 date: 2022-12-31T08:00:39.046Z
-title: DBall murder
+title: "04 : DBall murder"
 duration: 25 min
 ---
-#### Warm up 
+#### Warm up
 
 3 ROUNDS
 
@@ -24,6 +24,4 @@ Tenir le sandbag ou dball en [bear hug](https://www.youtube.com/watch?v=QbcXYQc-
 
 1 [RDL](https://www.youtube.com/shorts/Av6itwDL1jU) / 1 [Squat](https://www.youtube.com/watch?v=LtNSUhZJWJU) / 1 DBall hold step over box\
 --> 5 calories on AirBike
-Add 1 rep to ea movement each round 
-
->
+Add 1 rep to ea movement each round
