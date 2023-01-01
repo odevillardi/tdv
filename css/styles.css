@@ -249,13 +249,17 @@ section h2 {
   line-height: 1;
 }
 
+.galerie {
+  margin-bottom: 1.5vw;
+}
+
+.galerie::after {
+  clear: both;
+}
+
 .tile {
   margin: 1.5vw 0;
   box-sizing: border-box;
-}
-
-.tile:last-child {
-  border-bottom-width: 0;
 }
 
 .responsive-table {
