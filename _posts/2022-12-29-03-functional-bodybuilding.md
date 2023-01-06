@@ -9,6 +9,9 @@ tip: Une bonne séance en hypertrophie, pensez à mettre du poids, vous devez
   L'hypertrophie vous permettra d'augmenter votre force, votre volume musculaire
   et votre connection neuro-musculaire.
 ---
+*\*Privilégiez toujours la qualité d'exécution à la vitesse d'exécution*\
+*\*\*Si vous n'avez pas tous le matos adapté aux séances, envoyez moi un message je vous donnerai adaptations au poids du corps ou à l'élastique.*
+
 #### **Warm up 2 ROUNDS**
 
 * 8 [SL glute bridge](https://www.youtube.com/watch?v=tiZWu8faIkM)
