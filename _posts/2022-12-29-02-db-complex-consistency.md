@@ -5,6 +5,9 @@ date: 2022-12-29T09:30:48.839Z
 title: "02 : DB Complex : Consistency"
 duration: 30 min
 ---
+*\*Privilégiez toujours la qualité d'exécution à la vitesse d'exécution*\
+*\*\*Si vous n'avez pas tous le matos adapté aux séances, envoyez moi un message je vous donnerai adaptations au poids du corps ou à l'élastique.*
+
 #### Warm up / Renfo
 
 3 ROUNDS
