@@ -5,6 +5,9 @@ date: 2022-12-28T10:59:49.046Z
 title: "01 : Finish Strong"
 duration: 30 min
 ---
+*\*Privilégiez toujours la qualité d'exécution à la vitesse d'exécution*\
+*\*\*Si vous n'avez pas tous le matos adapté aux séances, envoyez moi un message je vous donnerai adaptations au poids du corps ou à l'élastique.*
+
 #### **Warm up/Renfo**
 
 3 ROUNDS
