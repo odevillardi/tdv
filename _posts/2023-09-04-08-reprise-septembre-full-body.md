@@ -1,6 +1,6 @@
 ---
 layout: post
-picture: /img/pics/contact.jpg
+picture: /img/pics/kb-swing.jpg
 date: 2023-09-04T16:30:39.808Z
 title: "08 : Reprise Septembre / Full Body 1"
 duration: 45 min
