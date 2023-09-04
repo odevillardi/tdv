@@ -2,7 +2,7 @@
 layout: post
 picture: /img/pics/contact.jpg
 date: 2023-09-04T16:30:39.808Z
-title: 08 Reprise Septembre Full Body
+title: "08 : Reprise Septembre / Full Body 1"
 duration: 45 min
 ---
 *\*Privilégiez toujours la qualité d’exécution à la vitesse d’exécution*\
