@@ -102,6 +102,7 @@ blockquote {
 .embed-responsive {
   position: relative;
   padding-bottom: 56.25%;
+  margin: -5% 0;
   height: 0;
   overflow: hidden;
   max-width: 100%;
@@ -119,12 +120,13 @@ blockquote {
   text-align: center;
   font-size: max(5vh, 5vw);
   text-shadow: min(-.15vh, -.15vw) max(.15vh, .15vw) 0 #000;
-  background-image: url("../img/thomas-de-villardi-1200-2.jpg");
+/*  background-image: url("../img/thomas-de-villardi-1200-2.jpg");*/
   background-size: cover;
   background-position: top center;
   overflow: hidden;
   margin: 0;
-  padding: min(16vh,16vw) 0;
+  padding: 0;
+/*  padding: min(16vh,16vw) 0;*/
 }
 
 .svg-logo {
