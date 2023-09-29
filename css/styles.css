@@ -102,7 +102,6 @@ blockquote {
 .embed-responsive {
   position: relative;
   padding-bottom: 56.25%;
-  margin: -5% 0;
   height: 0;
   overflow: hidden;
   max-width: 100%;
@@ -120,13 +119,12 @@ blockquote {
   text-align: center;
   font-size: max(5vh, 5vw);
   text-shadow: min(-.15vh, -.15vw) max(.15vh, .15vw) 0 #000;
-/*  background-image: url("../img/thomas-de-villardi-1200-2.jpg");*/
+  background-image: url("../img/videos/tdv.gif");
   background-size: cover;
   background-position: top center;
   overflow: hidden;
   margin: 0;
-  padding: 0;
-/*  padding: min(16vh,16vw) 0;*/
+  padding: min(16vh,16vw);
 }
 
 .svg-logo {
@@ -162,21 +160,21 @@ blockquote {
 /* Animations */
 @keyframes logonanim {
   0%  { transform: translate3d(0, -2rem, 0); opacity: 0; }
-  25%  { transform: translate3d(0, -2rem, 0); opacity: 0; }
+  90%  { transform: translate3d(0, -2rem, 0); opacity: 0; }
   100%  { transform: translate3d(0, 0, 0); opacity: 1; }
 }
 
-.svg-logo { animation: logonanim .5s ease; }
+.svg-logo { animation: logonanim 20s ease; }
 
 @keyframes leftnanim {
   0%  { transform: translate3d(-2rem, 0, 0); opacity: 0; }
-  50%  { transform: translate3d(-2rem, 0, 0); opacity: 0; }
+  92%  { transform: translate3d(-2rem, 0, 0); opacity: 0; }
   100%  { transform: translate3d(0, 0, 0); opacity: 1; }
 }
 
-.special1 { animation: leftnanim 1s ease }
-.special2 { animation: leftnanim 1.5s ease }
-.special3 { animation: leftnanim 2s ease }
+.special1 { animation: leftnanim 21s ease }
+.special2 { animation: leftnanim 21.5s ease }
+.special3 { animation: leftnanim 22s ease }
 
 nav {
   box-sizing: border-box;
