@@ -7,6 +7,6 @@ duration: 30 min
 ---
 Ensemble, nous allons établir un bilan global de votre situation physique et mentale afin de vous aider à atteindre vos objectifs. 
 
-Réathletisation, transformation physique ou recherche de performance, je vous proposerai un coaching adapté a vos besoins. 
+Réathletisation, transformation physique ou recherche de performance, je vous proposerai un coaching adapté à vos besoins. 
 
 Réservez votre consultation [ici](https://calendly.com/tdevillardi/30min)!
