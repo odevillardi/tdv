@@ -2,7 +2,7 @@
 layout: post
 picture: /img/pics/DSC7370.jpeg
 date: 2023-10-01T17:41:47.478Z
-title: Consultations
+title: Consultation vidéo
 duration: 30 min
 ---
 Ensemble, nous allons établir un bilan global de votre situation physique et mentale afin de vous aider à atteindre vos objectifs. 
